@@ -1,1 +1,1 @@
-web: gunicorn eco.wsgi --log-file -
+web: gunicorn dd.wsgi 
